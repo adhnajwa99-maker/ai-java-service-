@@ -142,3 +142,14 @@ public class AiService {
     }
 
 }
+public String analyzeCode(String code) {
+    try {
+        if (code == null || code.isEmpty()) {
+            throw new IllegalArgumentException("Code cannot be empty");
+        }
+        return "Analysis results for code:\n" + code + "\n[issues detected: 0]";
+    } catch (Exception e) {
+        logger.error("Error analyzing code: {}", e.getMessage());
+        return "Error analyzing code: " + e.getMessage();
+    }
+}

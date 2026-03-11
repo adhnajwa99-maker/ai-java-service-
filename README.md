@@ -154,3 +154,21 @@ We welcome contributions! To maintain high quality:
 5. Follow coding standards:
    - Java: Google Java Style
    - Python: PEP8
+![GitHub forks](https://img.shields.io/github/forks/adhnajwa99-maker/ai-java-service-?style=social)
+![GitHub issues](https://img.shields.io/github/issues/adhnajwa99-maker/ai-java-service-?style=flat)
+![License](https://img.shields.io/github/license/adhnajwa99-maker/ai-java-service-)
+![Visitor Count](https://komarev.com/ghpvc/?username=adhnajwa99-maker&color=blue)
+<!-- Project Badges -->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![AI Powered](https://img.shields.io/badge/AI-powered-purple?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Version](https://img.shields.io/badge/version-0.1-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+![Platform](https://img.shields.io/badge/platform-web-black?style=for-the-badge)
+
+<!-- GitHub Stats -->
+![GitHub stars](https://img.shields.io/github/stars/adhnajwa99-maker/ai-java-service-?style=social)
+![GitHub forks](https://img.shields.io/github/forks/adhnajwa99-maker/ai-java-service-?style=social)
+![GitHub issues](https://img.shields.io/github/issues/adhnajwa99-maker/ai-java-service-?style=social)
+
+<!-- Visitor Counter -->
+![Visitor Count](https://komarev.com/ghpvc/?username=adhnajwa99-maker&color=blue)

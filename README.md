@@ -1,135 +1,149 @@
-# 🚀 Java AI
+# 🚀 Java AI – Smart Code Assistant
 
-[![AI Powered](https://img.shields.io/badge/AI-powered-purple?style=for-the-badge)](https://github.com/adhnajwa99-maker/ai-java-service-/)
-[![Status](https://img.shields.io/badge/status-early%20development-orange?style=for-the-badge)](https://github.com/adhnajwa99-maker/ai-java-service-/)
-[![Version](https://img.shields.io/badge/version-0.1-blue?style=for-the-badge)](https://github.com/adhnajwa99-maker/ai-java-service-/)
-[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](https://github.com/adhnajwa99-maker/ai-java-service-/)
-[![Platform](https://img.shields.io/badge/platform-web-black?style=for-the-badge)](https://github.com/adhnajwa99-maker/ai-java-service-/)
-
-AI-powered developer assistant designed to help Java programmers write, analyze, and improve code faster.  
+![AI Powered](https://img.shields.io/badge/AI-powered-purple) 
+![Status](https://img.shields.io/badge/status-early%20development-orange) 
+![Version](https://img.shields.io/badge/version-0.1-blue) 
+![License](https://img.shields.io/badge/license-MIT-green) 
+![Platform](https://img.shields.io/badge/platform-web-black)  
 
 ---
 
-🌐 **Live Demo**  
-🚧 Coming soon *(replace with your demo link)*  
-
-🎬 **Demo Preview**  
-![Demo](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
+## 💡 Project Overview
+**Java AI** is an AI-powered developer assistant designed to help programmers **write, analyze, and improve Java code faster**.  
+It provides **code generation, analysis, documentation, and smart suggestions** directly integrated with GitHub.
 
 ---
 
-👀 **Visitor Count**  
-![Visitor Count](https://komarev.com/ghpvc/?username=adhnajwa99-maker&color=blue)
+## 🌐 Live Demo
+🚧 Coming soon – the first prototype will be available here.  
+
+![Demo Preview](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
 
 ---
 
-## ✨ Features
+## 👀 Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=USERNAME&color=blue)  
 
-| Icon | Feature | Animation |
-|------|--------|-----------|
-| 💻 | AI Code Generation | <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="50"> |
-| 🔍 | Code Analysis | <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="50"> |
-| 📚 | Documentation Generation | <img src="https://media.giphy.com/media/3orieW7dqvF8v1ZB5S/giphy.gif" width="50"> |
-| ⚙️ | Refactoring Suggestions | <img src="https://media.giphy.com/media/xT0GqeSlGSRQVeR2ME/giphy.gif" width="50"> |
-| 🔗 | Git Repository Integration | <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="50"> |
-| 🧠 | Code Explanation | <img src="https://media.giphy.com/media/l3vR8xC0vO5I8Oqve/giphy.gif" width="50"> |
+---
+
+## ✨ Features & Animated Preview
+
+| Feature | Preview |
+|---------|--------|
+| 💻 AI Code Generation | ![CodeGen](https://media.giphy.com/media/l0HlQ7LRalRdbnH6U/giphy.gif) |
+| 🔍 Code Analysis | ![Analysis](https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif) |
+| 📚 Documentation Generation | ![Docs](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) |
+| ⚙️ Refactoring Suggestions | ![Refactor](https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif) |
+| 🔗 GitHub Integration | ![GitHub](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif) |
+| 🧠 Code Explanation | ![Explain](https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif) |
 
 ---
 
 ## 🗺 Roadmap
 
 <details>
-<summary>🚧 Phase 0 – Planning & Prep</summary>
+<summary>🚧 Phase 0 — Planning & Prep</summary>
 
-- ✅ Define project vision  
-- ✅ Study AI coding competitors  
-- ⬜ Architecture design  
-- ⬜ Landing page & waitlist  
+**Progress:** ![20%](https://progress-bar.dev/20)  
 
-*Goal: Gather early users & feedback*  
+- 📖 Define project vision  
+- 🔍 Study existing AI coding tools  
+- 🏗️ Draw architecture diagram  
+- 🌐 Create landing page + waitlist  
+
+**Goal:** Gather early users & feedback
+
 </details>
 
 <details>
-<summary>⚙️ Phase 1 – MVP</summary>
+<summary>⚙️ Phase 1 — MVP</summary>
 
-- ⬜ Java code snippet generation  
-- ⬜ Documentation generator  
-- ⬜ Code explanation  
-- ⬜ Simple web interface  
-- ⬜ GitHub repo integration  
+**Progress:** ![40%](https://progress-bar.dev/40)  
 
-*Goal: Launch first working version & collect feedback*  
+- 💻 Code snippet generation ![CodeGen](https://media.giphy.com/media/l0HlQ7LRalRdbnH6U/giphy.gif)  
+- 📚 Documentation generation ![Docs](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
+- 🧠 Code explanation feature ![Explain](https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif)  
+- 🌐 Simple Web interface  
+- 🔗 GitHub integration (small repos)  
+- 🔑 API authentication (basic)  
+
+**Goal:** Launch first working version + collect feedback
+
 </details>
 
 <details>
-<summary>🧠 Phase 2 – Smart Developer Assistant</summary>
+<summary>🧠 Phase 2 — Smart Developer Assistant</summary>
 
-- ⬜ Code analysis & debugging suggestions  
-- ⬜ Refactoring recommendations  
-- ⬜ Auto-fix proposals (manual approval)  
-- ⬜ IDE integration (optional)  
+**Progress:** ![60%](https://progress-bar.dev/60)  
 
-*Goal: Strong developer experience & retention*  
+- 🔎 Code analysis & debugging suggestions ![Analysis](https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif)  
+- 🛠️ Refactoring recommendations ![Refactor](https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif)  
+- ⚡ Auto-fix proposals (manual approval)  
+- ✨ Highlight important code parts  
+- 🖥️ Optional IDE plugin integration  
+
+**Goal:** Enhance developer experience & retention
+
 </details>
 
 <details>
-<summary>🚀 Phase 3 – Project Intelligence</summary>
+<summary>🚀 Phase 3 — Project Intelligence</summary>
 
-- ⬜ Full repository analysis  
-- ⬜ Architecture insights  
-- ⬜ Performance optimization  
-- ⬜ Security checks  
-- ⬜ Unit test generation  
+**Progress:** ![80%](https://progress-bar.dev/80)  
 
-*Goal: Product differentiation & attract early adopters / companies*  
+- 📂 Full repository analysis (medium projects)  
+- 🏗️ Architecture suggestions  
+- ⚡ Performance optimization  
+- 🔒 Security checks  
+- ✅ Unit test generation  
+
+**Goal:** Product differentiation & attract early adopters / companies
+
 </details>
 
 <details>
-<summary>📈 Phase 4 – SaaS Platform & Growth</summary>
+<summary>📈 Phase 4 — SaaS Platform & Growth</summary>
 
-- ⬜ Developer dashboard  
-- ⬜ API authentication  
-- ⬜ Subscription plans (Free / Pro)  
-- ⬜ Team collaboration tools  
-- ⬜ Enterprise deployment  
+**Progress:** ![0%](https://progress-bar.dev/0)  
 
-*Goal: Turn project into monetizable SaaS & scale*  
+- 📊 Dashboard: usage stats & API keys  
+- 🔑 Subscription plans: Free / Pro  
+- ⚡ Referral system  
+- 🏢 Enterprise packages  
+- 🖥️ On-premise deployment  
+
+**Goal:** Turn project into monetizable SaaS + scale
+
 </details>
 
 ---
 
 ## 🧰 Tech Stack
-
 - AI / Machine Learning  
 - Java / Python  
 - REST APIs  
 - React (frontend)  
-- GitHub integrations  
+- GitHub integration  
 
 ---
 
 ## 🎯 Target Users
-
-- Java developers  
-- Startups & small teams  
-- Engineering teams  
+- Software developers  
+- Startups & Engineering teams  
 - Open source contributors  
 
 ---
 
 ## 🤝 Contributing
-
 Contributions are welcome!  
-
-1. Fork the repo  
+1. Fork the repository  
 2. Create a feature branch  
 3. Submit a pull request  
 
 ---
 
 ## 📜 License
-
-MIT License
+MIT License  
 
 ---
 

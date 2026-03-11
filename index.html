@@ -1,117 +1,131 @@
-<!DOCTYPE html>
+            <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Chat Service</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: #f0f2f5;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
-        .chat-container {
-            background: #fff;
-            width: 400px;
-            max-width: 90%;
-            border-radius: 10px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-            display: flex;
-            flex-direction: column;
-            overflow: hidden;
-        }
-        .chat-header {
-            background: #4a76a8;
-            color: #fff;
-            padding: 15px;
-            font-size: 1.2rem;
-            text-align: center;
-        }
-        #chat {
-            flex: 1;
-            padding: 15px;
-            overflow-y: auto;
-            display: flex;
-            flex-direction: column;
-            gap: 10px;
-        }
-        .message {
-            padding: 10px 15px;
-            border-radius: 20px;
-            max-width: 80%;
-            word-wrap: break-word;
-        }
-        .user { background: #d1e7ff; align-self: flex-end; }
-        .ai { background: #e2e3e5; align-self: flex-start; }
-        .input-container {
-            display: flex;
-            padding: 10px;
-            border-top: 1px solid #ccc;
-            gap: 10px;
-        }
-        #input {
-            flex: 1;
-            padding: 10px;
-            border-radius: 20px;
-            border: 1px solid #ccc;
-            outline: none;
-        }
-        #send {
-            background: #4a76a8;
-            color: #fff;
-            border: none;
-            border-radius: 20px;
-            padding: 0 20px;
-            cursor: pointer;
-            transition: background 0.3s;
-        }
-        #send:hover { background: #3b5d80; }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Java AI | CodeGenius</title>
+  <!-- Badges -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
 </head>
-<body>
-    <div class="chat-container">
-        <div class="chat-header">🤖 AI Chat Service</div>
-        <div id="chat"></div>
-        <div class="input-container">
-            <input type="text" id="input" placeholder="Type a message...">
-            <button id="send">Send</button>
-        </div>
+<body class="bg-gray-50 font-sans">
+
+  <!-- Header -->
+  <header class="text-center py-8 bg-gradient-to-r from-purple-500 to-indigo-500 text-white">
+    <h1 class="text-4xl font-bold">Java AI – CodeGenius</h1>
+    <p class="mt-2 text-lg">AI-powered developer assistant for Java & multi-language projects</p>
+    <!-- Badges -->
+    <div class="mt-4 flex justify-center gap-2 flex-wrap">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
+      <img src="https://img.shields.io/badge/AI-powered-purple" alt="AI Badge">
+      <img src="https://img.shields.io/badge/Status-Early%20Development-orange" alt="Status Badge">
+      <img src="https://img.shields.io/badge/Version-0.1-blue" alt="Version Badge">
+      <img src="https://img.shields.io/badge/License-MIT-green" alt="License Badge">
     </div>
+  </header>
 
-    <script>
-        const chat = document.getElementById("chat");
-        const input = document.getElementById("input");
-        const send = document.getElementById("send");
+  <!-- Features Section -->
+  <section id="features" class="max-w-5xl mx-auto py-12 px-4">
+    <h2 class="text-3xl font-bold mb-6 text-center">✨ Features</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div class="bg-white p-6 rounded-lg shadow hover:shadow-lg transition">
+        <i class="fas fa-code text-purple-500 text-2xl mb-2"></i>
+        <h3 class="font-semibold mb-2">AI Code Generation</h3>
+        <p>Generate Java & multi-language code snippets quickly.</p>
+      </div>
+      <div class="bg-white p-6 rounded-lg shadow hover:shadow-lg transition">
+        <i class="fas fa-magnifying-glass text-indigo-500 text-2xl mb-2"></i>
+        <h3 class="font-semibold mb-2">Code Analysis</h3>
+        <p>Detect bugs and suggest improvements automatically.</p>
+      </div>
+      <div class="bg-white p-6 rounded-lg shadow hover:shadow-lg transition">
+        <i class="fas fa-book text-green-500 text-2xl mb-2"></i>
+        <h3 class="font-semibold mb-2">Documentation Generation</h3>
+        <p>Automatically generate documentation for functions and modules.</p>
+      </div>
+      <div class="bg-white p-6 rounded-lg shadow hover:shadow-lg transition">
+        <i class="fas fa-tools text-yellow-500 text-2xl mb-2"></i>
+        <h3 class="font-semibold mb-2">Auto-fix & Refactoring</h3>
+        <p>Improve readability, refactor code, and suggest fixes.</p>
+      </div>
+    </div>
+  </section>
 
-        function addMessage(content, type) {
-            const div = document.createElement("div");
-            div.className = `message ${type}`;
-            div.textContent = content;
-            chat.appendChild(div);
-            chat.scrollTop = chat.scrollHeight;
-        }
+  <!-- Roadmap Section -->
+  <section id="roadmap" class="bg-gray-100 py-12 px-4">
+    <h2 class="text-3xl font-bold mb-6 text-center">🗺 Roadmap</h2>
 
-        send.addEventListener("click", () => {
-            const msg = input.value.trim();
-            if (!msg) return;
-            addMessage(msg, "user");
-            input.value = "";
+    <details class="bg-white p-6 rounded shadow mb-4">
+      <summary class="font-semibold cursor-pointer">🚧 Phase 0 – Planning & Prep</summary>
+      <ul class="mt-2 list-disc list-inside">
+        <li>Define project goals & AI vision</li>
+        <li>Study competitors: GitHub Copilot, SonarQube</li>
+        <li>Create system architecture & repo structure</li>
+        <li>Launch landing page & waitlist</li>
+      </ul>
+    </details>
 
-            // Placeholder response from AI
-            setTimeout(() => {
-                addMessage("AI: (waiting for backend response)", "ai");
-            }, 500);
-        });
+    <details class="bg-white p-6 rounded shadow mb-4">
+      <summary class="font-semibold cursor-pointer">⚙️ Phase 1 – MVP</summary>
+      <ul class="mt-2 list-disc list-inside">
+        <li>AI code snippet generation</li>
+        <li>Documentation & code explanation</li>
+        <li>Simple web interface</li>
+        <li>GitHub integration for small repos</li>
+      </ul>
+    </details>
 
-        // Enter key to send message
-        input.addEventListener("keypress", (e) => {
-            if (e.key === "Enter") send.click();
-        });
-    </script>
+    <details class="bg-white p-6 rounded shadow mb-4">
+      <summary class="font-semibold cursor-pointer">🧠 Phase 2 – Smart Developer Assistant</summary>
+      <ul class="mt-2 list-disc list-inside">
+        <li>Code analysis & debugging suggestions</li>
+        <li>Refactoring & auto-fix proposals</li>
+        <li>Optional IDE integration (VS Code plugin)</li>
+      </ul>
+    </details>
+
+    <details class="bg-white p-6 rounded shadow mb-4">
+      <summary class="font-semibold cursor-pointer">🚀 Phase 3 – Project Intelligence</summary>
+      <ul class="mt-2 list-disc list-inside">
+        <li>Full repository analysis</li>
+        <li>Architecture insights & performance optimization</li>
+        <li>Security vulnerability detection</li>
+        <li>Unit test generation</li>
+      </ul>
+    </details>
+
+    <details class="bg-white p-6 rounded shadow mb-4">
+      <summary class="font-semibold cursor-pointer">📈 Phase 4 – SaaS Platform & Growth</summary>
+      <ul class="mt-2 list-disc list-inside">
+        <li>Developer dashboard</li>
+        <li>Subscription plans (Free / Pro)</li>
+        <li>Team collaboration tools</li>
+        <li>Enterprise deployment</li>
+      </ul>
+    </details>
+  </section>
+
+  <!-- Demo Section -->
+  <section id="demo" class="max-w-5xl mx-auto py-12 px-4 text-center">
+    <h2 class="text-3xl font-bold mb-6">🎬 Demo Preview</h2>
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Demo Preview" class="mx-auto rounded shadow">
+    <p class="mt-4 text-gray-600">Placeholder demo – real demo coming soon</p>
+  </section>
+
+  <!-- Visitor Counter & Stats -->
+  <section class="max-w-5xl mx-auto py-8 px-4 text-center">
+    <img src="https://komarev.com/ghpvc/?username=adhnajwa99-maker&color=blue" alt="Visitor Count" class="mx-auto mb-4">
+    <div class="flex justify-center gap-4 flex-wrap">
+      <img src="https://img.shields.io/github/stars/adhnajwa99-maker/ai-java-service-" alt="GitHub Stars">
+      <img src="https://img.shields.io/github/forks/adhnajwa99-maker/ai-java-service-" alt="GitHub Forks">
+      <img src="https://img.shields.io/github/issues/adhnajwa99-maker/ai-java-service-" alt="GitHub Issues">
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="text-center py-8 text-gray-500">
+    <p>&copy; 2026 Java AI | CodeGenius. All rights reserved.</p>
+  </footer>
+
 </body>
 </html>

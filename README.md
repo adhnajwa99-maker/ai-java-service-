@@ -182,3 +182,58 @@ We welcome contributions! To maintain high quality:
 <a href="https://github.com/adhnajwa99-maker/ai-java-service-/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=adhnajwa99-maker/ai-java-service-" />
 </a>
+## 📊 Project Stats
+
+![Stars](https://starchart.cc/adhnajwa99-maker/ai-java-service-.svg)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/adhnajwa99-maker/ai-java-service-?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/adhnajwa99-maker/ai-java-service-?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/adhnajwa99-maker/ai-java-service-?style=for-the-badge)
+
+---
+
+## 🤖 AI Powered
+
+[![AI Powered](https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge&logo=openai&logoColor=white)](#)
+
+---
+
+## 📄 License
+
+[![License](https://img.shields.io/github/license/adhnajwa99-maker/ai-java-service-?style=for-the-badge)](LICENSE)
+
+---
+
+## 🚀 Version
+
+[![Version](https://img.shields.io/github/v/release/adhnajwa99-maker/ai-java-service-?style=for-the-badge)](https://github.com/adhnajwa99-maker/ai-java-service-/releases)
+
+---
+
+## 🎬 Demo
+
+[![Live Demo](https://img.shields.io/badge/Demo-Coming%20Soon-blue?style=for-the-badge&logo=github)](https://github.com/adhnajwa99-maker/ai-java-service-)
+
+*(Demo will be available soon as the AI API becomes live.)*
+
+---
+
+## 🧰 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/API-REST-blue?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)
+
+---
+
+## 💡 Funding & Sponsorship
+
+Interested in supporting the development of **AI Java Service**?
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-Project-green?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors)
+
+If you are a company or investor interested in AI developer tools, feel free to open an issue or contact the maintainer.
+
+---

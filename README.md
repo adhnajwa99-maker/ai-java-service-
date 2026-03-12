@@ -1,5 +1,4 @@
-![
----# 🚀 Java AI
+## 🚀 Java AI
 
 ![AI Powered](https://img.shields.io/badge/AI-powered-purple) 
 ![Status](https://img.shields.io/badge/status-early%20development-orange) 

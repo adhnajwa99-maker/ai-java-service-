@@ -173,3 +173,12 @@ We welcome contributions! To maintain high quality:
 
 <!-- Visitor Counter -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=adhnajwa99-maker&color=blue)
+<a href="https://github.com/adhnajwa99-maker/ai-java-service-/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=adhnajwa99-maker/ai-java-service-" />
+</a>
+
+## 🤝 Contributors
+
+<a href="https://github.com/adhnajwa99-maker/ai-java-service-/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=adhnajwa99-maker/ai-java-service-" />
+</a>

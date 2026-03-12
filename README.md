@@ -256,3 +256,20 @@ If you are a company or investor interested in AI developer tools, feel free to 
 ---
 
 
+
+
+
+## 💰 Funding & Sponsorship
+
+Interested in supporting the development of **AI Java Service**?  
+
+### Sponsor
+Support the project on GitHub Sponsors:  
+[https://github.com/sponsors/adhnajwa99-maker](https://github.com/sponsors/adhnajwa99-maker)
+
+If you are a **company or investor** interested in AI developer tools, feel free to:
+- Open an issue  
+- Contact the maintainer directly  
+
+> Your support helps us improve the project faster and maintain high quality. 🚀
+

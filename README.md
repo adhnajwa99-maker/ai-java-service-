@@ -257,7 +257,8 @@ If you are a company or investor interested in AI developer tools, feel free to 
 </a>
 
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhnajwa99-maker&layout=compact&theme=radical)
+![AI Powered](https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
 
 
 

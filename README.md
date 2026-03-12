@@ -80,10 +80,7 @@ Java AI aims to be a true AI developer partner capable of:
 - Java code snippet genera
 }
 {
- "status": "success",
- "data": "public int factorial(int n){ return (n==0)?1:n*factorial(n-1); }"
-}
-'tion
+
 - Documentation generator
 - Code explanation
 - Simple web interface

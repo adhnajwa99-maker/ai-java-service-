@@ -259,3 +259,24 @@ If you are a company or investor interested in AI developer tools, feel free to 
   <img src="https://contrib.rocks/image?repo=adhnajwa99-maker/ai-java-service-" />
 </a>
 
+
+
+
+
+
+
+
+## 🎬 AI Demo
+
+```bash
+POST /api/ai/generate
+
+{
+ "prompt": "Create a REST API controller in Java"
+}@RestController
+public class ExampleController {
+    @GetMapping("/hello")
+    public String hello(){
+        return "Hello World";
+    }
+}

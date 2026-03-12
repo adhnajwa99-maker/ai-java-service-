@@ -182,7 +182,7 @@ We welcome contributions! To maintain high quality:
 <a href="https://github.com/adhnajwa99-maker/ai-java-service-/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=adhnajwa99-maker/ai-java-service-" />
 </a>
-###logoColor=white)](#)
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhnajwa99-maker&show_icons=true&theme=radical)

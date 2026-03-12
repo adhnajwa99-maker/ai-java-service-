@@ -126,10 +126,31 @@ Java AI aims to be a true AI developer partner capable of:
 ---
 
 ## 🤝 Contributing
-Contributions are welcome:  
-1. Fork the repository  
-2. Create a feature branch  
-3. Submit a pull request  
+
+We **welcome contributions**! Your help makes this project stronger. To maintain **high quality**:
+
+### How to Contribute
+1. **Fork** the repository  
+2. **Create a feature branch**: `feature/your-feature-name`  
+3. **Write clear and concise commit messages**  
+4. **Submit a pull request (PR)** with:
+   - A clear description of your changes  
+   - Screenshots or GIFs if the feature affects UI/UX  
+5. **Engage in review**: Respond to feedback on your PR
+
+### ⚙️ Coding Standards
+- Follow consistent **naming conventions**  
+- Write **clean, readable, and maintainable code**  
+- Include **comments** for complex logic  
+- Ensure **all tests pass** before submitting  
+- Keep **commit history tidy**: small, logical commits
+
+### 📝 Tips for High-Quality Contributions
+- Check **existing issues** before creating a new PR  
+- Reference **issue numbers** in PR titles and descriptions  
+- Use **branch names** that clearly describe the feature or fix  
+
+> Following these steps helps us **keep the project organized** and ensures **smooth collaboration**. Thank you for contributing! 🚀
 
 ---
 

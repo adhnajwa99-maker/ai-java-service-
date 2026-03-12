@@ -52,6 +52,12 @@ Java AI aims to be a true AI developer partner capable of:
 - React (Frontend)
 - GitHub Integrations
 
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/adhnajwa99-maker/ai-java-service-.git
+cd ai-java-service-
+mvn spring-boot:run
 ---
 
 ## 🎯 Target Users
@@ -77,7 +83,24 @@ Java AI aims to be a true AI developer partner capable of:
 <details>
 <summary>Phase 1 — MVP</summary>
 
-- Java code snippet generation
+- Java code snippet genera
+## 🔌 API Usage
+
+<details>
+<summary>Generate Code Example</summary>
+
+```bash
+curl -X POST http://localhost:8080/api/generate \
+-H "Content-Type: application/json" \
+-d '{
+  "prompt": "Create a Java factorial function",
+  "language": "Java"
+}
+{
+ "status": "success",
+ "data": "public int factorial(int n){ return (n==0)?1:n*factorial(n-1); }"
+}
+'tion
 - Documentation generator
 - Code explanation
 - Simple web interface

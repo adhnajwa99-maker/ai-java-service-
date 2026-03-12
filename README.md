@@ -193,7 +193,6 @@ We welcome contributions! To maintain high quality:
 ## 🤖 AI Powered Project
 
 ![AI Powered](https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
----
 
 ## 📄 License
 

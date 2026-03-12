@@ -182,16 +182,15 @@ We welcome contributions! To maintain high quality:
 <a href="https://github.com/adhnajwa99-maker/ai-java-service-/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=adhnajwa99-maker/ai-java-service-" />
 </a>
-## 📊 Project Stats
+#### 📊 Project Stats
 
 ![Stars](https://starchart.cc/adhnajwa99-maker/ai-java-service-.svg)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/adhnajwa99-maker/ai-java-service-?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/adhnajwa99-maker/ai-java-service-?style=for-the-badge)
+
 ![GitHub forks](https://img.shields.io/github/forks/adhnajwa99-maker/ai-java-service-?style=for-the-badge)
+
 ![GitHub issues](https://img.shields.io/github/issues/adhnajwa99-maker/ai-java-service-?style=for-the-badge)
-
----
-
 ## 🤖 AI Powered
 
 [![AI Powered](https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge&logo=openai&logoColor=white)](#)

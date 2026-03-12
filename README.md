@@ -266,17 +266,3 @@ If you are a company or investor interested in AI developer tools, feel free to 
 
 
 
-## 🎬 AI Demo
-
-```bash
-POST /api/ai/generate
-
-{
- "prompt": "Create a REST API controller in Java"
-}@RestController
-public class ExampleController {
-    @GetMapping("/hello")
-    public String hello(){
-        return "Hello World";
-    }
-}

@@ -189,7 +189,8 @@ We welcome contributions! To maintain high quality:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhnajwa99-maker&layout=compact&theme=radical)## 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adhnajwa99-maker&theme=react-dark)## 🤖 AI Powered Project
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adhnajwa99-maker&theme=react-dark)
+## 🤖 AI Powered Project
 
 ![AI Powered](https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
 ---

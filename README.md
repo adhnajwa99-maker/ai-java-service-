@@ -182,19 +182,16 @@ We welcome contributions! To maintain high quality:
 <a href="https://github.com/adhnajwa99-maker/ai-java-service-/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=adhnajwa99-maker/ai-java-service-" />
 </a>
-#### 📊 Project Stats
+###logoColor=white)](#)
+## 📊 GitHub Stats
 
-![Stars](https://starchart.cc/adhnajwa99-maker/ai-java-service-.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhnajwa99-maker&show_icons=true&theme=radical)
 
-![GitHub stars](https://img.shields.io/github/stars/adhnajwa99-maker/ai-java-service-?style=for-the-badge)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhnajwa99-maker&layout=compact&theme=radical)## 📈 Contribution Activity
 
-![GitHub forks](https://img.shields.io/github/forks/adhnajwa99-maker/ai-java-service-?style=for-the-badge)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adhnajwa99-maker&theme=react-dark)## 🤖 AI Powered Project
 
-![GitHub issues](https://img.shields.io/github/issues/adhnajwa99-maker/ai-java-service-?style=for-the-badge)
-## 🤖 AI Powered
-
-[![AI Powered](https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge&logo=openai&logoColor=white)](#)
-
+![AI Powered](https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
 ---
 
 ## 📄 License

@@ -237,3 +237,25 @@ Interested in supporting the development of **AI Java Service**?
 If you are a company or investor interested in AI developer tools, feel free to open an issue or contact the maintainer.
 
 ---
+
+
+
+## 🎬 AI Demo
+
+![AI Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTQ2MW1pM3N2a2h5b2FqZ3d0b2F0eTR6a3M3N2J0c3Q5d3M3eGQ5NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif)
+
+*(This is a temporary demo preview. A real AI API demo will be added soon.)*
+
+## 🧰 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/API-REST-blue?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)
+## 🤝 Contributors
+
+<a href="https://github.com/adhnajwa99-maker/ai-java-service-/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=adhnajwa99-maker/ai-java-service-" />
+</a>
+

@@ -82,3 +82,36 @@ public class CustomResponse<T> {
         this.errors = errors;
     }
 }
+package com.najwa.aijavaservice.dto;
+
+import com.fasterxml.jackson.annotation.JsonInclude;
+import com.fasterxml.jackson.annotation.JsonProperty;
+import java.util.List;
+
+@JsonInclude(JsonInclude.Include.NON_NULL)
+public class CustomResponse {
+    @JsonProperty("data")
+    private Object data;
+
+    @JsonProperty("timestamp")
+    private Long timestamp = System.currentTimeMillis();
+
+    @JsonProperty("errors")
+    private List<String> errors;
+
+    public static CustomResponse ok(Object data) {
+        CustomResponse r = new CustomResponse();
+        r.data = data;
+        return r;
+    }
+
+    public static CustomResponse error(List<String> errors) {
+        CustomResponse r = new CustomResponse();
+        r.errors = errors;
+        return r;
+    }
+
+    public Object getData() { return data; }
+    public Long getTimestamp() { return timestamp; }
+    public List<String> getErrors() { return errors; }
+}

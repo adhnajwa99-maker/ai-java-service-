@@ -152,11 +152,6 @@ We **welcome contributions**! Your help makes this project stronger. To maintain
 
 ---
 
-## 📜 License
-MIT License
-
----
-
 ⭐ If you like the project, consider giving it a star!
 
 ## 💬 Testimonials
@@ -206,7 +201,8 @@ We welcome contributions! To maintain high quality:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhnajwa99-maker&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhnajwa99-maker&layout=compact&theme=radical)## 📈 Contribution Activity
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhnajwa99-maker&layout=compact&theme=radical)
+##  📈 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adhnajwa99-maker&theme=react-dark)
 ## 🤖 AI Powered Project

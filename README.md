@@ -66,26 +66,23 @@ Java AI aims to be a true AI developer partner capable of:
 <details>
 <summary>Phase 0 — Planning & Prep</summary>
 
-- Define project goals: AI Assistant for Java developers
-- Study competitors (GitHub Copilot, SonarQube)
-- Draw architecture diagram
-- Create Landing Page + waitlist
-- **Goal:** Gather early users & feedback
+[]- Define project goals: AI Assistant for Java developers
+[]- Study competitors (GitHub Copilot, SonarQube)
+[]- Draw architecture diagram
+[]- Create Landing Page + waitlist
+[]- **Goal:** Gather early users & feedback
 
 </details>
 
 <details>
 <summary>Phase 1 — MVP</summary>
 
-- Java code snippet genera
-}
-{
 
-- Documentation generator
-- Code explanation
-- Simple web interface
-- GitHub integration: small repos
-- API authentication (basic)
+[]- Documentation generator
+[]- Code explanation
+[]- Simple web interface
+[]- GitHub integration: small repos
+[]- API authentication (basic)
 - **Goal:** Launch first working version + gather feedback
 
 </details>
@@ -93,35 +90,35 @@ Java AI aims to be a true AI developer partner capable of:
 <details>
 <summary>Phase 2 — Smart Developer Assistant</summary>
 
-- Code analysis & debugging suggestions
-- Refactoring suggestions
-- Auto-fix proposals (manual approval)
-- Highlight important code parts
-- Optional: VS Code plugin integration
-- **Goal:** Strong developer experience + retention
+[]- Code analysis & debugging suggestions
+[]- Refactoring suggestions
+[]- Auto-fix proposals (manual approval)
+[]- Highlight important code parts
+[]- Optional: VS Code plugin integration
+[]- **Goal:** Strong developer experience + retention
 
 </details>
 
 <details>
 <summary>Phase 3 — Project Intelligence</summary>
 
-- Full repository analysis (medium projects)
-- Architecture suggestions
-- Performance optimization
-- Security checks
-- Unit test generation
-- **Goal:** Product differentiation & attract early adopters / companies
+[]- Full repository analysis (medium projects)
+[]- Architecture suggestions
+[]- Performance optimization
+[]- Security checks
+[]- Unit test generation
+[]- **Goal:** Product differentiation & attract early adopters / companies
 
 </details>
 
 <details>
 <summary>Phase 4 — SaaS Platform & Growth</summary>
 
-- Developer dashboard (usage stats, API keys)
-- Subscription plans (Free / Paid)
-- Referral system
-- Enterprise packages
-- On-premise deployment
+[]- Developer dashboard (usage stats, API keys)
+[]- Subscription plans (Free / Paid)
+[]- Referral system
+[]- Enterprise packages
+[]- On-premise deployment
 - **Goal:** Turn project into monetizable SaaS + scale
 
 </details>

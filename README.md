@@ -1,22 +1,4 @@
-![AI Powered](https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub stars](https://img.shields.io/github/stars/adhnajwa99-maker/ai-java-service-)
-![GitHub forks](https://img.shields.io/github/forks/adhnajwa99-maker/ai-java-service-)
-![GitHub issues](https://img.shields.io/github/issues/adhnajwa99-maker/ai-java-service-)
-![License](https://img.shields.io/github/license/adhnajwa99-maker/ai-java-service-)
-
----
-
-## 📊 Project Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhnajwa99-maker&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhnajwa99-maker&layout=compact&theme=radical)
-
----
-
-## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adhnajwa99-maker&theme=react-dark)
-
+![
 ---# 🚀 Java AI
 
 ![AI Powered](https://img.shields.io/badge/AI-powered-purple) 

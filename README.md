@@ -17,7 +17,6 @@
 
 ## 🎬 Demo Preview
 ![Demo](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
-*(Placeholder demo – will be replaced with real product demo)*
 
 ---
 
@@ -239,13 +238,6 @@ We welcome contributions! To maintain high quality:
 
 ---
 
-## 💡 Funding & Sponsorship
-
-Interested in supporting the development of **AI Java Service**?
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-Project-green?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors)
-
-If you are a company or investor interested in AI developer tools, feel free to open an issue or contact the maintainer.
 
 ---
 
@@ -253,7 +245,7 @@ If you are a company or investor interested in AI developer tools, feel free to 
 
 
 
-## 💰 Funding & Sponsorship
+# 💰 Funding & Sponsor#ship
 
 Interested in supporting the development of **AI Java Service**?  
 

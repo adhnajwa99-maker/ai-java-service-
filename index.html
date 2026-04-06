@@ -129,7 +129,7 @@
 
 </body>
 </html>
-fetchfetch("http://localhost:8080/api/ask", {
+(fetch("http://localhost:8080/api/ask", {
     method: "POST",
     headers: {
         "Content-Type": "application/json"
@@ -152,3 +152,5 @@ fetchfetch("http://localhost:8080/api/ask", {
     console.error("Error:", error.message);
     addMessage("❌ Server problem", "ai");
 });
+addMessage("Typing...", "ai");
+

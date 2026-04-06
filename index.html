@@ -129,3 +129,26 @@
 
 </body>
 </html>
+fetchfetch("http://localhost:8080/api/ask", {
+    method: "POST",
+    headers: {
+        "Content-Type": "application/json"
+    },
+    body: JSON.stringify({
+        question: msg
+    })
+})
+.then(async (response) => {
+    if (!response.ok) {
+        const text = await response.text();
+        throw new Error(text || "Server error");
+    }
+    return response.json();
+})
+.then(data => {
+    addMessage(data.answer, "ai");
+})
+.catch(error => {
+    console.error("Error:", error.message);
+    addMessage("❌ Server problem", "ai");
+});
